@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "13dbce4c-23aa-4ebe-9c8c-f47c651255e6",
+            "Value": {
+                "id": "ec3bdc34-59da-4139-afc2-85b4a18beab8",
+                "resourcePath": "scripts\\mecSnapBottom\\mecSnapBottom.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "1cf0da60-44fd-484f-880d-20801adc7b59",
             "Value": {
                 "id": "2f8798d6-38dd-4f7c-913e-0a4d77d4f511",
@@ -172,6 +180,14 @@
                 "id": "580f7542-b74b-4b51-b9b5-b3b6cf774dd8",
                 "resourcePath": "rooms\\rmTest\\rmTest.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "57dac78a-b233-401b-a64d-c5480b7b89b5",
+            "Value": {
+                "id": "fd400a78-a992-465a-aafe-e18ac56c88fe",
+                "resourcePath": "scripts\\mecInitiateJump\\mecInitiateJump.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -416,6 +432,8 @@
         "90226e3a-fb1f-42f9-9428-f7f00f155f4f",
         "8e185fd2-9a66-4e73-82df-69b3032b7164",
         "595f40a9-d8d7-408f-b9ea-816e07abdd32",
+        "13dbce4c-23aa-4ebe-9c8c-f47c651255e6",
+        "57dac78a-b233-401b-a64d-c5480b7b89b5",
         "98c3004b-c241-4ac3-9664-e052bc1a09aa",
         "3be0d32d-9150-496c-b902-0f1aeedcd008",
         "377053dd-8c7e-423a-ae9d-a335ffe80d35"

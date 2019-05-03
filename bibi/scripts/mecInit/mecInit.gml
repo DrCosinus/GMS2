@@ -3,6 +3,7 @@
 mec_hspeed = 0;
 mec_vspeed = 0;
 mec_grounded = false;
+mec_JumpImpulseSpeed = -mecComputeImpulse(DS_Jump_Height); // depends on design variable
 
 // Should be called at each room begin
 var col_layer_id = layer_get_id("Collisions");

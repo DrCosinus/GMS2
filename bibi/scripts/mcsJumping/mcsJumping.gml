@@ -4,12 +4,10 @@
 switch(argument0)
 {
 case StateStep.Setup:
-    mec_vspeed = -mecComputeImpulse(DS_Jump_Height);
-    mec_grounded = false;
+    mecInitiateJump(DS_Jump_Height);
     break;
     
 case StateStep.Update:
-
     if (mec_vspeed>0)
     {
         fsmChangeState(mcsFalling);

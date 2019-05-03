@@ -7,7 +7,6 @@ case StateStep.Setup:
     break;
     
 case StateStep.Update:
-
     if (mec_grounded)
     {
         fsmChangeState(mcsGrounded);
@@ -17,7 +16,6 @@ case StateStep.Update:
     break;
     
 case StateStep.Teardown:
-    y = (bbox_bottom div col_tmap_tile_height)*col_tmap_tile_height - 1 - rel_bbox_bottom_;
-    vspeed_ = 0;
+    mecSnapBottom();
     break;
 }
