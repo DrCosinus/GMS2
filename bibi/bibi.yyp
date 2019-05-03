@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "212bc6b4-f3ee-4c79-83cc-c5c63ef0abeb",
+            "Value": {
+                "id": "ea926a6c-db1d-4a70-9a5d-153f33abfeaa",
+                "resourcePath": "scripts\\logWarning\\logWarning.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "219a57a9-07a0-48e5-85d5-81cef0736039",
             "Value": {
                 "id": "105a4d15-0f05-4f84-b00c-ed1ff8ea9704",
@@ -247,6 +255,14 @@
             }
         },
         {
+            "Key": "74c6b512-1e6f-4a0a-b10e-b932f97b2ac2",
+            "Value": {
+                "id": "e8eee566-5b7a-45d2-83c9-3b5461447c6b",
+                "resourcePath": "scripts\\logMessage\\logMessage.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "7818b138-02b5-44c8-935f-32fb90ce3fa7",
             "Value": {
                 "id": "b743d58a-2c6b-4642-b931-bce3dbd10900",
@@ -423,6 +439,14 @@
             }
         },
         {
+            "Key": "fae7846e-2975-487b-9d59-6d459f178551",
+            "Value": {
+                "id": "eaa5b47f-892b-4647-b14d-c6447d78707f",
+                "resourcePath": "scripts\\assert\\assert.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "ffde60d4-dac8-43cc-b31a-9c951989eefd",
             "Value": {
                 "id": "ebad1469-3d8a-437a-8b6a-d429eb722255",
@@ -433,6 +457,9 @@
     ],
     "script_order": [
         "50d0985e-8441-4773-871e-4c2bc996d1c4",
+        "fae7846e-2975-487b-9d59-6d459f178551",
+        "74c6b512-1e6f-4a0a-b10e-b932f97b2ac2",
+        "212bc6b4-f3ee-4c79-83cc-c5c63ef0abeb",
         "bd357077-8f6e-4cbf-aa61-193e4ae70f25",
         "8df24bb6-25e9-47d6-bfb5-017e9124861d",
         "ade0a986-a705-4ee3-99b2-9e2c2200405b",

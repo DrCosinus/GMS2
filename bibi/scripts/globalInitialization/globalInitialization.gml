@@ -1,5 +1,19 @@
 gml_pragma("global", "globalInitialization();");
 
+enum LogLevel
+{
+    Critical,
+    Error,
+    Warning,
+    Message
+};
+
+#macro ENABLE_ASSERT true
+
+#macro LOG_LEVEL LogLevel.Message
+//#macro LOG_LEVEL LogLevel.Warning
+//#macro LOG_LEVEL LogLevel.Error
+
 enum StateStep
 {
     Setup,
@@ -13,4 +27,3 @@ show_debug_message("=====================");
 
 // pixels by squared seconds
 #macro mecGravity 587
-
