@@ -1,0 +1,194 @@
+# bb
+
+## stuffs
+
+Portal/Stargate
+Metro/Train (Level)
+Glyphes/Alphabet/Arithmetic
+In game Book
+In game Data Base
+In game Computer Interface (console/windows)
+Puzzle
+Magnet
+
+## GAMES
+
+1001 spikes
+999
+Another World
+Axiome Verge
+Baba is you
+Block that matter
+Braid
+Cave Story
+Cauldron
+Chrono Trigger
+Dark Myst
+Dead Cells
+Defender of the crown
+Dust: an Elysian tail
+Evoland
+Fez
+Flash back
+Forager
+H.E.R.O.
+Hack'n'slash
+Hyperlight drifter
+Iconoclast
+Inside
+Into the breach
+Jump, step, step
+Kuru kuru kururin
+La mulana
+Lode Runner
+Luftrausers
+Maldita castilla
+Mr Driller
+Muramasa
+Nebulus
+Nier: Automata
+Nykra
+Owlboy
+Picross
+Pokemon
+Prince of Persia
+Rogue Legacy
+Shadow Complex
+Shovel Knight
+Slay the spire
+Sorcery
+Soul Reaver
+Spelunky
+Super Meat Boy
+Symphony of the Night
+Teslagrad
+The Dig
+The messenger
+The Witness
+Towerfall
+TIS-100
+Timepilot
+UFO (classic)
+Zelda: a link to the past
+
+## GAME GENRES
+
+Tower defense
+
+### Platform
+
+bumpers
+accrochage
+double saut
+sol qui se dérobe
+glide
+course
+entre deux
+saut haut avec impulsion
+saut avec elan
+push Block
+pressure plate
+Dash
+glissage/balayage
+accroupissement
+jetpack
+roulade
+speedrun
+superplay
+retournement automatique si 1 seul ennemi derrière
+rewindable
+
+Metroidvania
+Adventure
+Investigation
+
+## Gameplay features
+
+fast fluid fun
+explore
+Drone/option/sidekick/pet
+Rewind/Replay
+Photo
+Tasks automatisation
+Interaction
+Inventory
+Equipement
+Amélioration de l'équiment
+Amélioration des stats
+Dialogues
+Element Systems (fire burns wood, waters stops fire, fire propagation)
+Editor UGC
+key
+lock
+horde
+region reducing every x 
+carte tarot d'Ambre(tp)
+ghosts et messages des autres joueurs
+thermal/electro magnetic view
+
+## Game universe
+
+Contemporain
+spatial
+vegetal
+profondeur de champs
+brume
+iles flottant dans le ciel
+Multiworld (living vs dead, light vs darkness, chateau inversé, ...)
+
+## Code Navmesh
+
+PURE
+STAR INTERIOR
+
+## Cameras
+
+Topdown
+Slide
+Link to the past
+Zoom
+Pan
+
+## Tech
+
+Dynamic lighting 2D
+Navmesh
+Weather/Season
+ray marching
+
+## ART
+Geometry
+Low poly
+cyber
+Parallax
+
+## Book
+
+Princes d'Ambre
+
+## Theme
+
+Transhumanism
+
+     /\
+    /  \
+   /\  /\
+  /  /\  \
+ /  /  \  \
+/__/____\__\
+
+## ZOOs
+
+Platform 3C
+Weapons?
+Pick up
+Dialogues
+Camera
+UI
+Quest
+Cutscene
+HUD
+Enemy
+Combat
+Craft
+World map
