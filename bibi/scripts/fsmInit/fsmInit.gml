@@ -6,4 +6,4 @@ if (event_type!=ev_create)
 }
 
 state = noone;
-mcChangeState(mcsGrounded);
+fsmChangeState(mcsGrounded);

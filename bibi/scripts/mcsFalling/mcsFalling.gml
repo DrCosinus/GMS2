@@ -10,7 +10,7 @@ case StateStep.Update:
 
     if (mec_grounded)
     {
-        mcChangeState(mcsGrounded);
+        fsmChangeState(mcsGrounded);
         exit;
     }
 

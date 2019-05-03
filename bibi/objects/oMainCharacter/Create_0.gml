@@ -2,4 +2,4 @@
 
 mecInit();
 
-mcInitState();
+fsmInit();

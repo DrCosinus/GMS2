@@ -12,7 +12,7 @@ case StateStep.Update:
 
     if (mec_vspeed>0)
     {
-        mcChangeState(mcsFalling);
+        fsmChangeState(mcsFalling);
         exit;
     }
     break;
