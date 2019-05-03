@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "1cf0da60-44fd-484f-880d-20801adc7b59",
+            "Value": {
+                "id": "2f8798d6-38dd-4f7c-913e-0a4d77d4f511",
+                "resourcePath": "views\\1cf0da60-44fd-484f-880d-20801adc7b59.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "219a57a9-07a0-48e5-85d5-81cef0736039",
             "Value": {
                 "id": "105a4d15-0f05-4f84-b00c-ed1ff8ea9704",
@@ -175,6 +183,14 @@
             }
         },
         {
+            "Key": "595f40a9-d8d7-408f-b9ea-816e07abdd32",
+            "Value": {
+                "id": "39985cf9-3e01-4a56-84f8-9172bd6bda83",
+                "resourcePath": "scripts\\mecComputeImpulse\\mecComputeImpulse.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "5ac62778-121c-4504-a979-698e6c97c246",
             "Value": {
                 "id": "99c52330-98dd-49d3-8a64-618214798e16",
@@ -235,6 +251,22 @@
             "Value": {
                 "id": "6b373454-95dd-489f-86ae-59066468f534",
                 "resourcePath": "scripts\\mcsJumping\\mcsJumping.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "8e185fd2-9a66-4e73-82df-69b3032b7164",
+            "Value": {
+                "id": "caeb7ac9-b992-46ee-ab28-5666a314fdd5",
+                "resourcePath": "scripts\\mecUpdate\\mecUpdate.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "90226e3a-fb1f-42f9-9428-f7f00f155f4f",
+            "Value": {
+                "id": "a40c9c68-c79f-4382-9230-3f3926181aba",
+                "resourcePath": "scripts\\mecInit\\mecInit.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -314,7 +346,7 @@
             "Key": "c969b026-bea2-476d-b757-536e2e65ee36",
             "Value": {
                 "id": "be11aa79-c0b3-4f68-ac48-085342b52681",
-                "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourcePath": "objects\\oMainCharacter\\oMainCharacter.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -375,7 +407,10 @@
         "98c3004b-c241-4ac3-9664-e052bc1a09aa",
         "3be0d32d-9150-496c-b902-0f1aeedcd008",
         "377053dd-8c7e-423a-ae9d-a335ffe80d35",
-        "2d0c447a-b679-4114-a587-908496e44d49"
+        "2d0c447a-b679-4114-a587-908496e44d49",
+        "90226e3a-fb1f-42f9-9428-f7f00f155f4f",
+        "8e185fd2-9a66-4e73-82df-69b3032b7164",
+        "595f40a9-d8d7-408f-b9ea-816e07abdd32"
     ],
     "tutorial": ""
 }

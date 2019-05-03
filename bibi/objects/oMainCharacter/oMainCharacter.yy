@@ -2,7 +2,7 @@
     "id": "c969b026-bea2-476d-b757-536e2e65ee36",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_player",
+    "name": "oMainCharacter",
     "eventList": [
         {
             "id": "36ec3311-4143-4f11-b258-0c7da1bb31b4",
@@ -67,7 +67,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "70",
-            "varName": "jump_height_",
+            "varName": "DS_Jump_Height",
             "varType": 0
         }
     ],
