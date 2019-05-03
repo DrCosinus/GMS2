@@ -1,5 +1,5 @@
 ///@description Update mechanics
-///@param canMoveVertically
+
 var dt = delta_time * 0.000001; // delta_time in seconds
 var acc = mecGravity;
 

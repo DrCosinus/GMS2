@@ -2,6 +2,6 @@
 ///@param peak_height absolute value of peak height in pixels 
 
 // assume the absolute value of the gravity in pixel by squared seconds is stored
-// in the phyGravity variable (or constant)
+// in the mecGravity variable (or constant)
 
 return sqrt(2*mecGravity*argument0);

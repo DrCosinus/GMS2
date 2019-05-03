@@ -1,10 +1,10 @@
 ///@description Initialize mechanics
-///
 
 mec_hspeed = 0;
 mec_vspeed = 0;
 mec_grounded = false;
 
+// Should be called at each room begin
 var col_layer_id = layer_get_id("Collisions");
 col_tmap_id = layer_tilemap_get_id(col_layer_id);
 col_tmap_tile_height = tilemap_get_tile_height(col_tmap_id);

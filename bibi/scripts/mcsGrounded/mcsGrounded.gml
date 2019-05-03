@@ -1,4 +1,4 @@
-///@description Main character state: grounded 
+///@description Main character state: Grounded 
 ///@param argument0 State step
 
 switch(argument0)

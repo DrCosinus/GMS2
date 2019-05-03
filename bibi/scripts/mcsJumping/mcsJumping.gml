@@ -1,3 +1,6 @@
+///@description Main character state: Jumping 
+///@param argument0 State step
+
 switch(argument0)
 {
 case StateStep.Setup:
@@ -7,7 +10,6 @@ case StateStep.Setup:
     
 case StateStep.Update:
 
-    mecUpdate();
     if (mec_vspeed>0)
     {
         mcChangeState(mcsFalling);

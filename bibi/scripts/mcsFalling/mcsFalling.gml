@@ -1,3 +1,6 @@
+///@description Main character state: Falling 
+///@param argument0 State step
+
 switch(argument0)
 {
 case StateStep.Setup:
