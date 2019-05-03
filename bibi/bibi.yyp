@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "4f11a8ad-f1f3-42e5-a68f-41d504cb83e8",
+            "Value": {
+                "id": "b8230a2f-c9de-42b6-8a70-ec0e25e99ce3",
+                "resourcePath": "scripts\\mcInputJumpPressed\\mcInputJumpPressed.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4f21fd11-367c-4c40-924c-f40303eba2a2",
             "Value": {
                 "id": "9bc879e1-44d6-4087-9675-21281dd89eae",
@@ -429,6 +437,7 @@
         "8df24bb6-25e9-47d6-bfb5-017e9124861d",
         "ade0a986-a705-4ee3-99b2-9e2c2200405b",
         "2d0c447a-b679-4114-a587-908496e44d49",
+        "4f11a8ad-f1f3-42e5-a68f-41d504cb83e8",
         "90226e3a-fb1f-42f9-9428-f7f00f155f4f",
         "8e185fd2-9a66-4e73-82df-69b3032b7164",
         "595f40a9-d8d7-408f-b9ea-816e07abdd32",

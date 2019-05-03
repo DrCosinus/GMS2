@@ -86,6 +86,8 @@ course
 entre deux
 saut haut avec impulsion
 saut avec elan
+double Jump
+wall Jump
 push Block
 pressure plate
 Dash

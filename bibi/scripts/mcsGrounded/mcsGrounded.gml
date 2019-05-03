@@ -15,8 +15,7 @@ case StateStep.Update:
         exit;
     }
 
-    // if jump button is pressed then go to jump state
-    if (keyboard_check_pressed(vk_up) or gamepad_button_check_pressed(0, gp_face1))
+    if (mcInputJumpPressed())
     {
         fsmChangeState(mcsJumping);
         exit;
