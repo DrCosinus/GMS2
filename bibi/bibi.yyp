@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "37b66501-2a88-42c7-b153-5743f4e78a25",
+            "Value": {
+                "id": "0813fe19-9f40-4db3-b89b-e332ce80d3cc",
+                "resourcePath": "scripts\\mathMod\\mathMod.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "3be0d32d-9150-496c-b902-0f1aeedcd008",
             "Value": {
                 "id": "686e3eb8-b90c-4332-ba18-74fa7ccd5382",
@@ -415,6 +423,14 @@
             }
         },
         {
+            "Key": "ea4cd2b1-3081-4b93-908e-84365ec30ee2",
+            "Value": {
+                "id": "a8ea58ef-5221-42ba-8370-3c2f179d5659",
+                "resourcePath": "views\\ea4cd2b1-3081-4b93-908e-84365ec30ee2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "0ac442ba-54ba-40d1-b710-11c0c0920c60",
@@ -472,7 +488,8 @@
         "57dac78a-b233-401b-a64d-c5480b7b89b5",
         "98c3004b-c241-4ac3-9664-e052bc1a09aa",
         "3be0d32d-9150-496c-b902-0f1aeedcd008",
-        "377053dd-8c7e-423a-ae9d-a335ffe80d35"
+        "377053dd-8c7e-423a-ae9d-a335ffe80d35",
+        "37b66501-2a88-42c7-b153-5743f4e78a25"
     ],
     "tutorial": ""
 }
