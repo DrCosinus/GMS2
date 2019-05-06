@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "7be1770f-2c62-47ab-be4c-b4bdbb4c12d8",
+            "Value": {
+                "id": "48798140-1f73-4cee-820f-f71626189979",
+                "resourcePath": "sprites\\sCar\\sCar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "800c3856-cfdb-4109-bd2d-ef5b1728b661",
             "Value": {
                 "id": "234c9e7e-94c6-4617-8dcb-a6f61f341c7d",
