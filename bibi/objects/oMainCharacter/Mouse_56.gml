@@ -1,0 +1,3 @@
+/// @description 
+
+selectedPathPoint = -1;
