@@ -44,13 +44,14 @@ Too many... and for so different reasons...
 Racing:
 
 - Death Rally
-- Super Car
+- Super Cars
 
 RPG:
 
 - Chrono Trigger
 - Dark Mist
 - Evoland
+- Vagrant Story
 - Zelda: a link to the past
 
 Puzzles:
@@ -59,6 +60,7 @@ Puzzles:
 - Block that matter
 - Braid
 - Hack'n'slash
+- Ilo Milo
 - Jump, step, step
 - Mr Driller
 - Picross
@@ -300,6 +302,7 @@ Floors must be freely crossable from below
 - foule
 - flocking
 - Parallax
+- point cloud
 
 ## ART
 

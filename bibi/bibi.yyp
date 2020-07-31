@@ -367,6 +367,14 @@
             }
         },
         {
+            "Key": "acf595ea-65bc-4257-b00c-22b3587593bb",
+            "Value": {
+                "id": "8adfe8f0-8501-4a54-b6c0-3de75d75f4de",
+                "resourcePath": "scripts\\vec2Add\\vec2Add.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "ade0a986-a705-4ee3-99b2-9e2c2200405b",
             "Value": {
                 "id": "ec02b6d2-d097-4d30-a05c-8d62bd78e096",
@@ -497,7 +505,8 @@
         "98c3004b-c241-4ac3-9664-e052bc1a09aa",
         "3be0d32d-9150-496c-b902-0f1aeedcd008",
         "377053dd-8c7e-423a-ae9d-a335ffe80d35",
-        "37b66501-2a88-42c7-b153-5743f4e78a25"
+        "37b66501-2a88-42c7-b153-5743f4e78a25",
+        "acf595ea-65bc-4257-b00c-22b3587593bb"
     ],
     "tutorial": ""
 }

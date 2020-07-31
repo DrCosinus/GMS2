@@ -3,7 +3,4 @@
 ///@param {real} base
 gml_pragma("forceinline");
 
-var number = argument0;
-var base = argument1;
-var q = floor(number/base);
-return number - q * base;
+return argument0 - floor(argument0/argument1) * argument1;
